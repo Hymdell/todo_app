@@ -1,2 +1,2 @@
 # todo_app
-Aplicativo para anotar afazeres feito em Flutter/Dart.
+Aplicativo para entender o conceito de KEYS em Flutter/Dart.
